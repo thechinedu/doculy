@@ -1,0 +1,6 @@
+{
+  "name": "Doculy CI workflow",
+  "description": "Automatically run tests for Doculy",
+  "iconName": "nodejs",
+  "categories": ["JavaScript", "TypeScript", "Node", "Npm"]
+}
